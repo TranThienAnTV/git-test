@@ -1,0 +1,22 @@
+{
+  "name": "git-test-01",
+  "version": "1.0.0",
+  "description": "This is an example about git-test-01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranThienAnTV/git-test.git"
+  },
+  "author": "TranThienAn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranThienAnTV/git-test/issues"
+  },
+  "homepage": "https://github.com/TranThienAnTV/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
